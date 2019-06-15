@@ -2,13 +2,12 @@
   background: #565352;
   display: flex;
   justify-content: space-between;
-  border-radius: 15%;
+  border-radius: 50px;
 }
 
 .logo1 {
   height: 90px;
   border-radius: 60%;
-  margin-left: 2%;
 }
 
 .Title {
@@ -25,7 +24,7 @@
   width: 100%;
 }
 
-.cover {
+.xyz {
   width: 100%;
 }
 
